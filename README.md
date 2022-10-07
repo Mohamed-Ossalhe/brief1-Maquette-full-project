@@ -5,9 +5,9 @@ This Repository includes the full maquette we worked on from A to Z, Zoning, Wir
 
 **Our Team:**
 * *our team includes:*
-- OSSALHE Mohamed ( Responsable of making Menu Page )
-- ESSOULI Hamza ( Responsable of making About Page )
-- RAMMACH sedik ( Responsable of making Contact Page )
+    - OSSALHE Mohamed ( Responsable of making Menu Page )
+    - ESSOULI Hamza ( Responsable of making About Page )
+    - RAMMACH sedik ( Responsable of making Contact Page )
 
 **Project Context:**
 * Une chaîne de restaurants souhaite modifier son site web pour renforcer sa présence web au delà des réseau sociaux.
@@ -16,7 +16,7 @@ This Repository includes the full maquette we worked on from A to Z, Zoning, Wir
 
 **Tool Used for Wireframing:**
 * figma
-- why we used figma, because figma is very easy to learn and work with, and also free and thats a good point, in addition figma is accesible everywhere and anytime even if you don't have the desktop app you can access it using the browser.
+    - why we used figma, because figma is very easy to learn and work with, and also free and thats a good point, in addition figma is accesible everywhere and anytime even if you don't have the desktop app you can access it using the browser.
 
 **My Task:**
 - My mission was to take care of the Restaurant Menu Page and make it stand out
