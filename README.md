@@ -4,7 +4,7 @@ This Repository includes the full maquette we worked on from A to Z, Zoning, Wir
 
 
 **Our Team:**
-*our team includes:*
+* *our team includes:*
 - OSSALHE Mohamed ( Responsable of making Menu Page )
 - ESSOULI Hamza ( Responsable of making About Page )
 - RAMMACH sedik ( Responsable of making Contact Page )
